@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blockline-login/static/css/main.073c9b0a.css",
+    "main.js": "/blockline-login/static/js/main.b9bf7e38.js",
+    "static/js/787.59149b4c.chunk.js": "/blockline-login/static/js/787.59149b4c.chunk.js",
+    "index.html": "/blockline-login/index.html",
+    "main.073c9b0a.css.map": "/blockline-login/static/css/main.073c9b0a.css.map",
+    "main.b9bf7e38.js.map": "/blockline-login/static/js/main.b9bf7e38.js.map",
+    "787.59149b4c.chunk.js.map": "/blockline-login/static/js/787.59149b4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9bf7e38.js"
+  ]
+}
